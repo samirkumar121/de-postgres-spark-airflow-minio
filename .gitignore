@@ -1,0 +1,7 @@
+env/
+output/
+jars/
+extra_jars/
+*.jar
+*.parquet
+*.log
